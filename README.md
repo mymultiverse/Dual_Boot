@@ -10,3 +10,4 @@ conda install -n envname [package] # Install packages
 source deactivate # Deactivate active environment
 conda remove -n envname -all # Delete and remove environment
 ```
+[ref.](https://conda.io/docs/user-guide/tasks/manage-python.html)
