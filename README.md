@@ -4,7 +4,7 @@ Dual boot setup
 
 # Anaconda
 ```
-conda create -n envname python=x.x anaconda # Create new environment
+conda create -n envname python=x.x other packages # Create new environment
 source activate envname # Activate environment
 conda install -n envname [package] # Install packages
 source deactivate # Deactivate active environment
