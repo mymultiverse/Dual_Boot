@@ -11,3 +11,5 @@ source deactivate # Deactivate active environment
 conda remove -n envname -all # Delete and remove environment
 ```
 [ref.](https://conda.io/docs/user-guide/tasks/manage-python.html)
+
+[Error in Windows](https://github.com/numpy/numpy/issues/6923) 
